@@ -10,6 +10,8 @@ the Git repository and various commands using a web project
 
 ## Purpose
 
+A new purpose
+
 ## DEPLOYMENT
 
 ## How to Contribute
